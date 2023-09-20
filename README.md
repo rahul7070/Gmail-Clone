@@ -8,7 +8,7 @@ This is an individual project built within a span of five days.
 
 # Deployed Link
 
-frontend - [https://lovely-dragon-724dee.netlify.app/](https://lovely-dolphin-b8d04e.netlify.app/)
+frontend -([https://lovely-dolphin-b8d04e.netlify.app/](https://lovely-dolphin-b8d04e.netlify.app/))
 
 
 ## Features
